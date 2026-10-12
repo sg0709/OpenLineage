@@ -1,0 +1,22 @@
+integration/spark/shared/src/main/java/io/openlineage/spark/agent/facets/builder/SparkPropertyFacetBuilder.java
+  s_b84ed8a08fe822::t_92188f9f2069d0 75-84,88
+integration/spark/shared/src/test/java/io/openlineage/spark/agent/facets/builder/SparkPropertyFacetBuilderTest.java
+  s_b84ed8a08fe822::t_c756fc3eb5188f 32,117-139
+  s_b84ed8a08fe822::t_97e1d2c646d2e6 140-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a1e2e2cb75ec60d02e1eb810d71fb2c8f888a198",
+  "prompts": {},
+  "sessions": {
+    "s_b84ed8a08fe822": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "78790ff6-5bd1-437f-a577-4b8082178311",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sarthak Goyal <sarthak.goyal@meesho.com>"
+    }
+  }
+}

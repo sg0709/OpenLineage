@@ -1,0 +1,21 @@
+integration/spark/shared/src/main/java/io/openlineage/spark/agent/filters/DeltaEventFilter.java
+  s_b84ed8a08fe822::t_daff0c414b760c 59-63,70-76
+integration/spark/shared/src/test/java/io/openlineage/spark/agent/filters/DeltaEventFilterTest.java
+  s_b84ed8a08fe822::t_7c104f250cff1b 161-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac119b21ee25ce6e677b39354e9f1a61e53334ae",
+  "prompts": {},
+  "sessions": {
+    "s_b84ed8a08fe822": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "78790ff6-5bd1-437f-a577-4b8082178311",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sarthak Goyal <sarthak.goyal@meesho.com>"
+    }
+  }
+}

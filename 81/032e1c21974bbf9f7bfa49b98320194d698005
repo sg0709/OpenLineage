@@ -1,0 +1,19 @@
+CHANGELOG.md
+  s_b84ed8a08fe822::t_03680bad3387f9 10-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "81032e1c21974bbf9f7bfa49b98320194d698005",
+  "prompts": {},
+  "sessions": {
+    "s_b84ed8a08fe822": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "78790ff6-5bd1-437f-a577-4b8082178311",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sarthak Goyal <sarthak.goyal@meesho.com>"
+    }
+  }
+}

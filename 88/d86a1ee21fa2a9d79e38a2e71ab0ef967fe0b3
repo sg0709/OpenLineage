@@ -1,0 +1,19 @@
+integration/spark/shared/src/test/java/io/openlineage/spark/agent/facets/builder/SparkPropertyFacetBuilderTest.java
+  s_b84ed8a08fe822::t_a32036e970b3a7 130,139-144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "88d86a1ee21fa2a9d79e38a2e71ab0ef967fe0b3",
+  "prompts": {},
+  "sessions": {
+    "s_b84ed8a08fe822": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "78790ff6-5bd1-437f-a577-4b8082178311",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sarthak Goyal <sarthak.goyal@meesho.com>"
+    }
+  }
+}

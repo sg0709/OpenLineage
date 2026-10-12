@@ -1,0 +1,14 @@
+CHANGELOG.md
+  h_131c2281b90b29 10-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5dde875de52b492ffa7b28a5a3f8c2c402a1a4fb",
+  "prompts": {},
+  "humans": {
+    "h_131c2281b90b29": {
+      "author": "Sarthak Goyal <sarthak.goyal@meesho.com>"
+    }
+  }
+}
